@@ -121,3 +121,4 @@ Check out the code of 04_task_robot/, finish the missing parts in the code.
 
 - [Modular Programming](https://en.wikipedia.org/wiki/Modular_programming)
 - [Google Map Santo](https://santatracker.google.com/?hl=en#codelab)
+- [Heron's Smiley](https://github.com/heronyang/smiley)
