@@ -1,5 +1,9 @@
 # Functions in C
 
+## Site
+
+[https://github.com/heronyang/itrs-2015-winter/tree/master/01_c_functions](https://github.com/heronyang/itrs-2015-winter/tree/master/01_c_functions)
+
 ## Goal
 
 Learn the idea of functions in C.
@@ -119,6 +123,6 @@ Check out the code of 04_task_robot/, finish the missing parts in the code.
 
 ## Reference
 
-- [Modular Programming](https://en.wikipedia.org/wiki/Modular_programming)
-- [Google Map Santo](https://santatracker.google.com/?hl=en#codelab)
-- [Heron's Smiley](https://github.com/heronyang/smiley)
+- [Modular Programming https://en.wikipedia.org/wiki/Modular_programming](https://en.wikipedia.org/wiki/Modular_programming)
+- [Google Map Santo - https://santatracker.google.com/?hl=en#codelab](https://santatracker.google.com/?hl=en#codelab)
+- [Heron's Smiley - https://github.com/heronyang/smiley](https://github.com/heronyang/smiley)
